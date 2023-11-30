@@ -6,7 +6,7 @@ Projek akhir dari Kelompok 5 PBO
 ### Class Diagram
 ![Class Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/class.png?raw=true)
 ### Use Case Diagram
-
+![Use Case Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/usecase.png?raw=true)
 ### Sequence Diagram
 ### History
 ![History Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_history.jpg?raw=true)
