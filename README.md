@@ -1,6 +1,7 @@
 # Simple_Search_Browser
 
-Projek akhir dari Kelompok 5 PBO
+Projek akhir dari Kelompok 5 PBO membuat program bertema Browser menggunakan Python
+
 
 ## UML Diagram
 ### Class Diagram
