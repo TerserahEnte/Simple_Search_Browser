@@ -8,15 +8,15 @@ Projek akhir dari Kelompok 5 PBO
 ### Use Case Diagram
 
 ### Sequence Diagram
-> History
+> History__
 ![History Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_history.jpg?raw=true)
-> Navigasi
+> Navigasi__
 ![Navigasi Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_navigasi.jpg?raw=true)
-> Search
+> Search__
 ![Search Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_search.jpg?raw=true)
-> Sign In
+> Sign In__
 ![Sign In Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_signin.jpg?raw=true)
-> Tab
+> Tab__
 ![Tab Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_tab.jpg?raw=true)
 ### Activity Diagram
 ![activity Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/activity.jpg?raw=true)
