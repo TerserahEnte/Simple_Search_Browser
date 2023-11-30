@@ -12,5 +12,5 @@ Projek akhir dari Kelompok 5 PBO
 
 ## Module Requirement
 ```
-pip install requirement.txt
+pip install -r requirement.txt
 ```
