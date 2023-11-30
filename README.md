@@ -11,13 +11,13 @@ Projek akhir dari Kelompok 5 PBO
 ### History
 ![History Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_history.jpg?raw=true)
 ### Navigasi
-> ![Navigasi Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_navigasi.jpg?raw=true)
+![Navigasi Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_navigasi.jpg?raw=true)
 ### Search
-> ![Search Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_search.jpg?raw=true)
+![Search Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_search.jpg?raw=true)
 ### Sign In
-> ![Sign In Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_signin.jpg?raw=true)
+![Sign In Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_signin.jpg?raw=true)
 ### Tab
-> ![Tab Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_tab.jpg?raw=true)
+![Tab Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_tab.jpg?raw=true)
 ### Activity Diagram
 ![activity Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/activity.jpg?raw=true)
 
