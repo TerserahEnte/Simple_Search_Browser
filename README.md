@@ -8,3 +8,9 @@ Projek akhir dari Kelompok 5 PBO
 ### Use Case Diagram
 ### Sequence Diagram
 ### Activity Diagram
+
+
+## Module Requirement
+```
+pip install requirement.txt
+```
