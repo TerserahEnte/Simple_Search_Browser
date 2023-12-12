@@ -18,7 +18,7 @@ Projek akhir dari Kelompok 5 PBO membuat program bertema Browser menggunakan Pyt
 ### Sign In
 ![Sign In Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_signin.jpg?raw=true)
 ### Tab
-![Tab Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_tab.jpg?raw=true)
+![Tab Sequence Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/sequence_tab.png?raw=true)
 ### Activity Diagram
 ![activity Diagram](https://github.com/TerserahEnte/Simple_Search_Browser/blob/main/img/activity.jpg?raw=true)
 
