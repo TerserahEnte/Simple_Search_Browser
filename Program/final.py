@@ -222,8 +222,8 @@ class Search:
         self.tab = tab
     
     def search(self, query):
-        api_key = "AIzaSyCuDZQpzK71Tbo6cU8_ztvIhEDNqVu2JKo"
-        cx = "c340d50afeaaa4077"
+        api_key = "[Secret_Key]"
+        cx = "[Secret_CX]"
         url = f"https://www.googleapis.com/customsearch/v1?key={api_key}&cx={cx}&q={query}"
         response = requests.get(url)
         data = response.json()
